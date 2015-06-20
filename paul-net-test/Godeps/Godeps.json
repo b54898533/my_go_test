@@ -1,0 +1,5 @@
+{
+	"ImportPath": "my_go_test/my_net_demo",
+	"GoVersion": "go1.4.2",
+	"Deps": []
+}
